@@ -1,1 +1,1 @@
-web: gunicorn aswe.wsgi
+web: gunicorn xfsd.wsgi
